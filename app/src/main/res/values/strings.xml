@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDHello</string>
+
+    <string name="myName">Name: Tim Delaney</string>
+    <string name="studentNumber">Student Number: 11116366</string>
+    <string name="buttonName">CLICK ME</string>
+    <string name="action_settings">Settings</string>
+</resources>
